@@ -1,0 +1,1 @@
+pg_dump -h test-choicemd.cvps0v8aayng.us-east-2.rds.amazonaws.com -Fc -o -U choicemd choicemd_test -n public > prod.bak

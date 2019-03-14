@@ -1,0 +1,6 @@
+*.aes
+aws-deployment.env
+.vscode
+/node_modules
+.idea
+/web/node_modules
